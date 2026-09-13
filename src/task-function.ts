@@ -10,7 +10,7 @@ const getResultMessage = (student: Student): string => {
     return `${student.name}さんは不合格です。`;
   }
 };
-
+sdadasdas
 const studentA = {
   name: '侍太郎',
   score: 70,
